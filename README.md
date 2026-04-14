@@ -1,4 +1,4 @@
-# Definitely Typed..
+# Definitely Typed..1
 
 > The repository for _high quality_ TypeScript type definitions.
 
